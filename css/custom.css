@@ -46,7 +46,7 @@
 }
 
 /* Small devices (landscape phones, 576px and up) */
-@media only screen and  (min-width: 400px) {
+@media only screen and (min-width: 400px) {
   .btn-primary {
     margin-top: auto;
   }
